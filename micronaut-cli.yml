@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: dev.brassrat
+testFramework: spock
+sourceLanguage: groovy
+buildTool: gradle
+features: [annotation-api, app-name, gradle, groovy, groovy-application, http-client, jackson-databind, jib, logback, micronaut-build, netty-server, openapi, readme, rxjava2, rxjava2-http-client, rxjava2-http-server-netty, shade, spock, yaml]
